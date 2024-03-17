@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DenysBohdanenko.github.io/PasswordGenerator.git/static/css/main.91003a89.css",
+    "main.js": "/DenysBohdanenko.github.io/PasswordGenerator.git/static/js/main.033d1d7d.js",
+    "index.html": "/DenysBohdanenko.github.io/PasswordGenerator.git/index.html",
+    "main.91003a89.css.map": "/DenysBohdanenko.github.io/PasswordGenerator.git/static/css/main.91003a89.css.map",
+    "main.033d1d7d.js.map": "/DenysBohdanenko.github.io/PasswordGenerator.git/static/js/main.033d1d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91003a89.css",
+    "static/js/main.033d1d7d.js"
+  ]
+}
